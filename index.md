@@ -20,3 +20,6 @@ function codigoProba(x) {
 ```
 
 ![Imaxe de proba](https://i.blogs.es/a19bfc/testing/450_1000.jpg)
+
+Como dixo christian un día
+ > esto de programar es muy duro!
