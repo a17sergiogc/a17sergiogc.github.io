@@ -18,3 +18,6 @@ function codigoProba(x) {
   }
 }
 ```
+
+![Imaxe de prona](https://i.blogs.es/a19bfc/testing/450_1000.jpg)
+Format: ![Alt Text](url)
