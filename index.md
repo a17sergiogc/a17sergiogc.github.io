@@ -12,9 +12,9 @@
    1. Lista numerada 3.2
 
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
+function codigoProba(x) {
+  if(x=0) {
+    window.alert('Esto é unha proba de codigo en markdown')
   }
 }
 ```
